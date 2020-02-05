@@ -1,0 +1,1 @@
+Working on The Odin Project. The goal of this web-page was to recreate the Google homepage in style. Functionality is not the main goal. Any critiscicm is much appreciated! 
